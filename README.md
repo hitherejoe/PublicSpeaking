@@ -5,11 +5,11 @@ These are all things I **have**, **want** and **am going** to be talking about. 
 
 # Key for file titles
 
-- R: Rejected
+- R: Rejected and never given at a conference
 - ~R: Rejected because a different submission to the same conference was accepted
-- A: Accepted
-- I: Invited
-- -: None of the above yet
+- A: This talk was accepted and given at the listed conferences
+- I: Invited, written specifically for the given conference
+- -: None of the above yet, still pending approval / rejection
 
 # Speaking timeline
 
