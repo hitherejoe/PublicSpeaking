@@ -1,3 +1,11 @@
+# Title
+
+Do the right thing
+
+# Type
+
+Keynote
+
 # Abstract
 
 Bad software not only causes problems for the current developers, but it will also be the cause of many headaches for future developers. This bad code may allow us to piece things together and get features out to our users, but in the long run this just isn’t sustainable. This technical debt can not only be the cause of broken releases, regressions and longer development times - but it can cause stress, anxiety and even burnout for the developers working on the project.
