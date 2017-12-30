@@ -9,6 +9,7 @@ These are all things I **have**, **want** and **am going** to be talking about. 
 - ~R: Rejected because a different submission to the same conference was accepted
 - A: Accepted
 - I: Invited
+- -: None of the above yet
 
 # Speaking timeline
 
