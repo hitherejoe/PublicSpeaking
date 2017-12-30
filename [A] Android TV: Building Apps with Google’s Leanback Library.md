@@ -15,6 +15,7 @@ In this class, we'll look at how we can create Android TV apps with the help of 
 - DroidKaigi 2016
 - 360AnDev 2016
 - Droidcon London 2016
+- Droidcon NYC 2016
 
 # Given at
 
