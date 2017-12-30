@@ -1,3 +1,11 @@
+# Title
+
+Building Clean Architected Apps with Architecture Components
+
+# Type
+
+45 minute talk
+
 # Abstract
 
 Clean architecture is a powerful concept that allows us to build maintainable, extendable and thoroughly testable applications. Not only does it create a clear separation of concerns, but this concept can be pushed further by modularising our applications to easily enforce this principle. 
