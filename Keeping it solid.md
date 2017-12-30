@@ -17,4 +17,4 @@ By the end of this talk, we'll be more familiar with the concepts of SOLID and h
 
 # Given at
 
-- Droidcon Krakow 2016
+- Droidcon Krakow 2016 (https://www.youtube.com/watch?v=qUhxoUfDp-I)
