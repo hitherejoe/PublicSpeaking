@@ -32,5 +32,5 @@ https://speakerdeck.com/hitherejoe/getting-clean-keeping-lean
 
 # Recordings
 
-Realm - https://academy.realm.io/posts/converting-an-app-to-use-clean-architecture/
-MCE^4 - https://www.youtube.com/watch?v=kXzEj7I-YbM&t=403s
+- Realm - https://academy.realm.io/posts/converting-an-app-to-use-clean-architecture/
+- MCE^4 - https://www.youtube.com/watch?v=kXzEj7I-YbM&t=403s
