@@ -14,9 +14,12 @@ In this session, we’ll be exploring the Actions on Google platform, the compon
 
 # Submitted to
 
-- DroidKaigi
 - AppDevCon
 - Droidcon Boston
 - RigaDevDays
 - Chicago Roboto
 - App Design & Development Conference
+
+# Not accepted by
+
+- DroidKaigi
