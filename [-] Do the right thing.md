@@ -14,7 +14,10 @@ But it doesn’t have to be like that. As developers we have the responsibility 
 
 # Submitted to
 
-- DroidKaigi
 - AppDevCon
 - Droidcon Boston
 - Chicago Roboto
+
+# Not accepted by
+
+- DroidKaigi
