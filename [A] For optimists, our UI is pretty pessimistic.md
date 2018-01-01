@@ -19,9 +19,14 @@ But really, it's not even too big a task to design and build for optimism over p
 
 # Given at
 
-- 360AnDev (https://academy.realm.io/posts/360-andev-2017-joe-birch-pessimistic-android-ui/)
-- Droidcon Berlin (https://www.youtube.com/watch?v=M68L_VuqPi4)
+- 360AnDev 2017
+- Droidcon Berlin 2017
 
 # Slides
 
 https://speakerdeck.com/hitherejoe/for-optimists-our-ui-is-pretty-pessimistic
+
+# Recordings
+
+- 360AnDev - https://academy.realm.io/posts/360-andev-2017-joe-birch-pessimistic-android-ui/)
+- Droidcon Berlin - https://www.youtube.com/watch?v=M68L_VuqPi4)
