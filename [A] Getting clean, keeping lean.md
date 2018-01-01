@@ -14,17 +14,18 @@ Following Clean Architecture has made me discover the advantages that it can bri
 
 # Not accepted by
 
-- DroidKaigi
-- Chicago Roboto
+- DroidKaigi 2017
+- Chicago Roboto 2017
 - Droidcon NYC 2017 (due to another talk being accepted)
 - 360AnDev 2017 (due to another talk being accepted)
-- Chicago Roboto
+- Chicago Roboto 2017
+- Android Makers Paris 2017 (Due to the clash with Droidcon Boston)
 
 # Given at
 
-- AppDevCon
-- Droidcon Boston
-- MCE^4
+- AppDevCon 2017
+- Droidcon Boston 2017
+- MCE^4 2017
 
 # Slides
 
