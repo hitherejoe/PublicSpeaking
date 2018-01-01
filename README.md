@@ -1,7 +1,7 @@
 # Public Speaking
 A collection of my abstracts and other stuff related to public speaking. Each document contains the talk **title**, **type** (e.g. keynote), **abstract**, **submitted to** and **given at** sections.
 
-These are all things I **have**, **want** and **am going** to be talking about. Want me to speak about something here? Get in touch with me over on twitter [@hitherejoe](https://twitter.com/hitherejoe) :)
+These are all things I **have**, **want** and **am going** (well, I plan on!) to be talking about. Want me to speak about something here? Get in touch with me over on twitter [@hitherejoe](https://twitter.com/hitherejoe) :)
 
 # Key for file titles
 
