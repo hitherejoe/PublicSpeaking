@@ -14,4 +14,8 @@ In this talk we'll be discovering what the platform of Android Things is and loo
 
 # Given at
 
-- App Design & Development Conference
+- App Design & Development Conference 2017
+
+# Slides
+
+https://speakerdeck.com/hitherejoe/android-things-building-for-the-iot
