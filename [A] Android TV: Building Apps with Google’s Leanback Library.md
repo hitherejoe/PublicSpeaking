@@ -25,3 +25,7 @@ In this class, we'll look at how we can create Android TV apps with the help of 
 - Droidcon Berlin 2016
 - AnDevCon Boston 2016
 - Droidcon Vienna 2016
+
+# Slides
+
+https://speakerdeck.com/hitherejoe/android-tv-building-apps-with-googles-leanback-library
