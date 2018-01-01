@@ -25,3 +25,7 @@ Following Clean Architecture has made me discover the advantages that it can bri
 - AppDevCon
 - Droidcon Boston
 - MCE^4
+
+# Slides
+
+https://speakerdeck.com/hitherejoe/getting-clean-keeping-lean
