@@ -14,7 +14,10 @@ In this talk I want to explore the different options we have when building the f
 
 # Submitted to
 
-- DroidKaigi
 - AppDevCon
 - Droidcon Boston
 - Chicago Roboto
+
+# Not accepted by
+
+- DroidKaigi
