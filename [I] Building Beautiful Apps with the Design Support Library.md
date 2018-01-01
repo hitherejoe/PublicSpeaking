@@ -13,3 +13,7 @@ Since Material Design has been introduced to the world of Android, many applicat
 # Given at
 
 - AnDevCon Boston 2016
+
+# Slides
+
+https://speakerdeck.com/hitherejoe/building-beautiful-apps-with-the-design-support-library
