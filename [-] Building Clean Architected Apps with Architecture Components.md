@@ -18,6 +18,6 @@ In this talk, we’ll be looking at how we’ve built our latest Android app at 
 - Droidcon Boston
 - Chicago Roboto
 
-# Rejected bby
+# Not accepted by
 
 - DroidKaigi
