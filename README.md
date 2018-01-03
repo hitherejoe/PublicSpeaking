@@ -46,3 +46,8 @@ These are all things I **have**, **want** and **am going** (well, I plan on!) to
 [Building apps for Android TV with Google's Leanback Library](https://github.com/hitherejoe/PublicSpeaking/blob/master/%5BA%5D%20Android%20TV:%20Building%20Apps%20with%20Google%E2%80%99s%20Leanback%20Library.md) @ Droidcon Bucharest, March 2016
 
 [Building apps for Android TV with Google's Leanback Library](https://github.com/hitherejoe/PublicSpeaking/blob/master/%5BA%5D%20Android%20TV:%20Building%20Apps%20with%20Google%E2%80%99s%20Leanback%20Library.md) @ Brighton Mobile Meetup, Feb 2016
+
+# Speaker Bio
+
+Hi, my names Joe. I’m an Android Engineer and Google Developer Expert for Android based in Brighton, UK working on the Android team at Buffer. I’m passionate about coding and love creating robust, polished and exciting projects for mobile, the web, TV, wearables and I’ll probably be toying with whatever the new thing is at the time you’re reading this – I love to be constantly learning. I’m also a keen writer as I love to share my learnings and experiences with others.
+
