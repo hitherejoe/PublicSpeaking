@@ -14,10 +14,10 @@ In this talk I want to explore the different options we have when building the f
 
 # Submitted to
 
-- AppDevCon
-- Droidcon Boston
-- Chicago Roboto
+- AppDevCon 2018
+- Droidcon Boston 2018
+- Chicago Roboto 2018
 
 # Not accepted by
 
-- DroidKaigi
+- DroidKaigi 2018
