@@ -1,6 +1,6 @@
 # Title
 
-Tensorflow for android developers
+Tensorflow for mobile developers
 
 # Type
 
