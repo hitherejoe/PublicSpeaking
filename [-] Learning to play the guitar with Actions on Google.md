@@ -12,14 +12,17 @@ Actions on Google is a fascinating platform that allows us to create conversatio
 
 In this session, we’ll be exploring the Actions on Google platform, the components available to use in the Actions SDK and how we can use API.ai to learn how we can create a conversational guitar tutor for Google Actions.
 
-# Submitted to
+# Giving at
 
 - AppDevCon
-- Droidcon Boston
+
+# Submitted to
+
 - RigaDevDays
-- Chicago Roboto
 - App Design & Development Conference
 
 # Not accepted by
 
 - DroidKaigi
+- Droidcon Boston (another talk was accepted)
+- Chicago Roboto
