@@ -1,6 +1,6 @@
 # Title
 
-Allying for Inclusivity
+Making change as an Ally
 
 # Type
 
