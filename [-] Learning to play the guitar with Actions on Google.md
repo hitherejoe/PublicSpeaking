@@ -16,11 +16,6 @@ In this session, we’ll be exploring the Actions on Google platform, the compon
 
 - AppDevCon
 
-# Submitted to
-
-- RigaDevDays
-- App Design & Development Conference
-
 # Not accepted by
 
 - DroidKaigi
