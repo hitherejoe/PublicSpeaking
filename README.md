@@ -13,6 +13,18 @@ These are all things I **have**, **want** and **am going** (well, I plan on!) to
 
 # Speaking timeline
 
+## 2018
+
+[Making change as an Ally](https://github.com/hitherejoe/PublicSpeaking/blob/master/%5B-%5D%20Making%20change%20as%20an%20Ally.md) @ Fullstack London, July 2018
+
+[Tensorflow for Android Developers](https://github.com/hitherejoe/PublicSpeaking/blob/master/%5B-%5D%20Tensorflow%20for%20Mobile%20Developers.md) @ mDevCamp Prague, June 2018
+
+[Tensorflow for Android Developers](https://github.com/hitherejoe/PublicSpeaking/blob/master/%5B-%5D%20Tensorflow%20for%20Mobile%20Developers.md) @ Droidcon Boston, March 2018
+
+[Tensorflow for Android Developers](https://github.com/hitherejoe/PublicSpeaking/blob/master/%5B-%5D%20Tensorflow%20for%20Mobile%20Developers.md) @ Brighton Mobile, March 2018
+
+[Learning to play the guitar with Actions on Google](https://github.com/hitherejoe/PublicSpeaking/blob/master/%5B-%5D%20Learning%20to%20play%20the%20guitar%20with%20Actions%20on%20Google.md) @ AppDevCon Amsterdam, March 2018
+
 ## 2017
 
 [For optimists, our UI is pretty pessimistic](https://github.com/hitherejoe/PublicSpeaking/blob/master/%5BA%5D%20For%20optimists%2C%20our%20UI%20is%20pretty%20pessimistic.md) @ Droidcon Berlin, September 2017
