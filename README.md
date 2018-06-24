@@ -15,7 +15,11 @@ These are all things I **have**, **want** and **am going** (well, I plan on!) to
 
 ## 2018
 
+[Making change as an Ally](https://github.com/hitherejoe/PublicSpeaking/blob/master/%5B-%5D%20Making%20change%20as%20an%20Ally.md) @ 360AnDev, July 2018
+
 [Making change as an Ally](https://github.com/hitherejoe/PublicSpeaking/blob/master/%5B-%5D%20Making%20change%20as%20an%20Ally.md) @ Fullstack London, July 2018
+
+Braillebox - A Braille Reader built using Android Things @ Monzo x Novoda "Tech for Good", June 2018
 
 [Tensorflow for Android Developers](https://github.com/hitherejoe/PublicSpeaking/blob/master/%5B-%5D%20Tensorflow%20for%20Mobile%20Developers.md) @ mDevCamp Prague, June 2018
 
