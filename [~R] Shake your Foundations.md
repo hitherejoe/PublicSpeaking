@@ -12,12 +12,9 @@ MVP? MVVM? MVI? Clean Architecture? In a world with so many different ways to bu
 
 In this talk I want to explore the different options we have when building the foundations of our android projects. I’m not looking to make you a software architect, but having an understanding of each of these, along with the benefits each can bring, can help you and your team to make the right decisions for the project you are creating to ensure a smoother project lifecycle.
 
-# Submitted to
-
-- AppDevCon 2018
-- Droidcon Boston 2018
-- Chicago Roboto 2018
-
 # Not accepted by
 
 - DroidKaigi 2018
+- AppDevCon 2018 (Another talk was accepted)
+- Droidcon Boston 2018 (Another talk was accepted)
+- Chicago Roboto 2018
