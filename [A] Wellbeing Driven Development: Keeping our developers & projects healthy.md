@@ -13,10 +13,6 @@ often it can be one of bugs, crashes, stress, conflict or even burnout. But with
 our development process to be one of calm, focus and wellbeing. In this talk I want to explore the whys and hows of how we can
 keep both our developers and projects in a healthy state, allowing us to fast and stress free.
 
-# Submitted to
+# Accepted by
 
-N/A
-
-# Not accepted by
- 
- N/A
+- Droidcon London
