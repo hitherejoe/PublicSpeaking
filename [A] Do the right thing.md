@@ -12,12 +12,13 @@ Bad software not only causes problems for the current developers, but it will al
 
 But it doesn’t have to be like that. As developers we have the responsibility to be professional with the code we write to ensure that we not only satisfy the needs of our users, but we also satisfy the needs of our developers. Doing the right thing means we can be both empathetic during development and keep our project maintainable at the same time.
 
-# Submitted to
+# Accepted by
 
-- AppDevCon
-- Droidcon Boston
-- Chicago Roboto
+- Droidcon London
 
 # Not accepted by
 
 - DroidKaigi
+- AppDevCon
+- Droidcon Boston (Another talk was accepted)
+- Chicago Roboto
