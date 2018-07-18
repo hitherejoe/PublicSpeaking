@@ -22,3 +22,6 @@ In todays workplaces, there are still huge issues with diversity & inclusivity. 
 
 - KotlinConf
 - Droidcon London (Another talk was accepted)
+- Droidcon New York (Another talk was accepted)
+- mDevCamp Prague (Another talk was accepted)
+- DevFest Nantes (Another talk was accepted)
