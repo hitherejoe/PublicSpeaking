@@ -12,6 +12,9 @@ Machine Learning can be a challenging subject, but luckily for us we have a powe
 
 In this talk I want to introduce you to machine learning and explore some of the fundamental ideas around TensorFlow. We'll  be looking at how we can retrain and use TensorFlow models, inspect them using the TensorFlow TensorBoard and how this can all tie in with our existing Android experience.
 
-# Submitted to
+# Accepted by
 
 - Droidcon Boston 2018
+- mDevCamp 2018
+- Brighton mobile
+- Droidcon New York 2018 (House move meant I could no longer make the date :( )
