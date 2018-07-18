@@ -12,9 +12,10 @@ Actions on Google is a fascinating platform that allows us to create conversatio
 
 In this session, we’ll be exploring the Actions on Google platform, the components available to use in the Actions SDK and how we can use Dialogflow to learn how we can create a conversational guitar tutor for Google Actions.
 
-# Giving at
+# Accepted by
 
 - AppDevCon
+- Droidcon London
 
 # Not accepted by
 
