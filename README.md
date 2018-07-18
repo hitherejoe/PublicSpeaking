@@ -15,6 +15,10 @@ These are all things I **have**, **want** and **am going** (well, I plan on!) to
 
 ## 2018
 
+[Wellbeing Driven Development](https://github.com/hitherejoe/PublicSpeaking/blob/master/%5BA%5D%20Wellbeing%20Driven%20Development:%20Keeping%20our%20developers%20%26%20projects%20healthy.md) @ Droidcon London, October 2018
+
+[Learning to play the guitar with Actions on Google](https://github.com/hitherejoe/PublicSpeaking/blob/master/%5B-%5D%20Learning%20to%20play%20the%20guitar%20with%20Actions%20on%20Google.md) @ Droidcon London, October 2018
+
 [Making change as an Ally](https://github.com/hitherejoe/PublicSpeaking/blob/master/%5B-%5D%20Making%20change%20as%20an%20Ally.md) @ 360AnDev, July 2018
 
 [Making change as an Ally](https://github.com/hitherejoe/PublicSpeaking/blob/master/%5B-%5D%20Making%20change%20as%20an%20Ally.md) @ Fullstack London, July 2018
