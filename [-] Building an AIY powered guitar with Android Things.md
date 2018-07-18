@@ -17,4 +17,10 @@ up with AIY kits to create practical AI powered projects with Android.
 
 # Submitted to
 
-TBC
+- Droidcon New York
+- Droidcon London
+
+# Rejected by
+
+- Droidcon New York (Another talk was accepted)
+- Droidcon London (Another talk was accepted)
