@@ -4,7 +4,7 @@ Being an inclusive maker
 
 # Type
 
-45 minute talk
+Keynote
 
 # Abstract
 
