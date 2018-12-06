@@ -20,4 +20,5 @@ of our comfort zone, in the hope that more people can be enabled to explore the 
 
 # Submitted to
 
-TBC
+AppDevCon
+Droidcon Berlin
