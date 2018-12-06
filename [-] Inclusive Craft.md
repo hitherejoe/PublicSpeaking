@@ -1,6 +1,6 @@
 # Title
 
-Being an inclusive maker
+Inclusive Craft
 
 # Type
 
