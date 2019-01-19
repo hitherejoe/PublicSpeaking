@@ -17,6 +17,7 @@ In todays workplaces, there are still huge issues with diversity & inclusivity. 
 
 - 360AnDev
 - FullStack London
+- Droidcon Vienna
 
 # Rejected by
 
