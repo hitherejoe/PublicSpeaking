@@ -74,5 +74,5 @@ Braillebox - A Braille Reader built using Android Things @ Monzo x Novoda "Tech 
 
 # Speaker Bio
 
-Joe Birch is an Android Engineer and Google Developer Expert for Android, Assistant, Google Pay and Flutter based in Brighton, UK working on the Android team at Buffer. He is passionate about creating meaningful products, diving into new technologies and sharing his experiences with the community along the way. Outside of work Joe is an instructor at Caster.io and loves to dabble in electronics projects.
+Joe Birch is an Android Engineer and Google Developer Expert for Android, Assistant, Google Pay and Flutter based in Brighton, UK working on the Android team at Buffer. He is passionate about creating meaningful products, diving into new technologies and sharing his experiences with the community along the way. Outside of work Joe is an instructor at Caster.io, volunteer for Sea Shepherd UK and loves to dabble in electronics projects in his spare time.
 
