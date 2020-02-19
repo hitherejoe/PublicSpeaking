@@ -14,4 +14,5 @@ In this talk we'll be learning how we can run our unit tests, UI tests, lint che
 
 # Submitted to
 
-TBC
+Droidcon Berlin
+Droidcon London
