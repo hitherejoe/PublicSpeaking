@@ -23,3 +23,7 @@ of our comfort zone, in the hope that more people can be enabled to explore the 
 AppDevCon
 
 Droidcon Berlin
+
+# Given at
+
+Droidcon Berlin
